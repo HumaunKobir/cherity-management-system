@@ -21,11 +21,5 @@
     <link rel="stylesheet" href="assets/css/owl.css">
     <link rel="stylesheet" href="css/styles.css"/>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/js/all.min.js" crossorigin="anonymous"></script>
-<!--
 
-TemplateMo 551 Stand Blog
-
-https://templatemo.com/tm-551-stand-blog
-
--->
   </head>
